@@ -49,7 +49,7 @@
     height: 1.5rem;
     cursor: pointer;
     z-index: 1;
-    margin-top: 4%;
+    margin-top: 5%;
     margin-left: 10%;
   }
 
@@ -150,7 +150,7 @@
     color: #ec5242;
     margin: 0;
     font-size: 31px;
-    line-height: 20px;
+    line-height: 30px;
   }
 
   .headline-contents h1 {
@@ -217,7 +217,7 @@
     width: 30%;
     align-self: center;
     padding-right: 0.5rem;
-    color: red;
+    color: white;
   }
 
   .event-details {
@@ -233,6 +233,11 @@
     background: orangered;
     align-self: center;
     margin-bottom: 1rem;
+    font-size: 1rem;
+  }
+
+  .buy-link {
+    display: none;
   }
 
   .guest-appearences {
@@ -260,7 +265,12 @@
   .guest-details {
     margin: 0 4%;
     width: 60%;
-    font-size: 80%;
+    font-size: 60%;
+  }
+
+  .guest-prof {
+    color: #ec5242;
+    font-style: italic;
   }
 
   .detal {
@@ -268,9 +278,9 @@
   }
 
   .line {
-    width: 20%;
+    width: 10%;
     border: 1px solid grey;
-    margin-left: 0;
+    margin-left: 2%;
   }
 
   .more {
@@ -412,13 +422,13 @@
     background-size: 100%;
     background-repeat: no-repeat;
     background-blend-mode: multiply;
-    margin: 0 2rem;
   }
 
   .past1 {
     background-color: #ec5242;
     background-image: url(../images/bar_in_motion-1.jpg);
     margin-bottom: 2%;
+    align-self: center;
   }
 
   .past2 {

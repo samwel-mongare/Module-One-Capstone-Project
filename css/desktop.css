@@ -225,8 +225,9 @@
   .event-name {
     align-self: center;
     padding-right: 0.5rem;
-    color: #ec5242;
+    color: #fff;
     margin: 5%;
+    font-family: 'quicksand', sans-serif;
   }
 
   .event-details {
@@ -244,6 +245,7 @@
 
   .buy-link {
     margin: 5% 0;
+    color:#ec5242
   }
 
   .guest-appearences {
@@ -288,13 +290,14 @@
   }
 
   .line {
-    width: 20%;
+    width: 10%;
     border: 1px solid grey;
-    margin-left: 0;
+    margin-left: 2%;
   }
 
   .guest-prof {
     color: #ec5242;
+    font-style: italic;
   }
 
   .more {
@@ -400,6 +403,9 @@
     color: white;
   }
 
+  .contactUs a{
+    color: #ec5242;
+  }
   .logo {
     background-color: white;
     align-content: center;
