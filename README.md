@@ -22,7 +22,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://mosams.github.io/Personal-Portfolio/)
+[Live Demo Link](https://mosams.github.io/Module-One-Capstone-Project/)
 
 
 To get a local copy up and running follow these simple example steps.
