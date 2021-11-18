@@ -14,32 +14,33 @@
 
 Additional description about the project and its features.
 
+## Project Presentation
+>   Here, you will find a short [video presentation](https://www.loom.com/share/1d260d6a0f484f3c92e73e4f2d47b26d), describing the project. 
+
+## Live Demo
+
+[Live Demo Link](https://mosams.github.io/Module-One-Capstone-Project/)
+
 ## Built With
 
 - HTML
 - CSS
 - JAVASCRIPT
 
-## Live Demo
+## How to Setup
+> You can simply clone or download [this repository](https://github.com/Mosams/Module-One-Capstone-Project.git), and use your favoright browser or code editor to run this program.
 
-[Live Demo Link](https://mosams.github.io/Module-One-Capstone-Project/)
+- To open the project after download, simply double click the index.html file
 
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- To open this project using vs code ( for this example) or your favorite code editor, you can follow the guide below:
+> in your cmd or command line navigate to where this project is located, then;
+```cmd
+cd microverse_portfolio_project 
+```
+> thereafter run
+```cmd
+code .
+```
 
 ## Authors
 
@@ -60,8 +61,5 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-- Special thanks and credit goes to Cindy Shin and all the Creative Commons community.
+- Design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07).
+- Icons from [Iconscout](https://iconscout.com). 
