@@ -68,7 +68,7 @@
 
   .nav-links1 {
     display: flex;
-    margin-left: 75%;
+    margin-left: 70%;
   }
 
   .link-one {
@@ -112,12 +112,19 @@
     padding: 5px 15px;
     color: #ec5242;
     border: 3px solid #ec5242;
-    transition: ease-in 200ms;
     margin-left: 1rem;
     white-space: nowrap;
   }
 
-  .bim :hover {
+  .nav-button {
+    padding: 5px 15px;
+    color: #ec5242;
+    border: 3px solid #ec5242;
+    margin-left: -40%;
+    white-space: nowrap;
+  }
+
+  .nav-button :hover {
     color: #fff;
     background-color: #ec5242;
   }
