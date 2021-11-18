@@ -245,7 +245,7 @@
 
   .buy-link {
     margin: 5% 0;
-    color:#ec5242
+    color: #ec5242;
   }
 
   .guest-appearences {
@@ -403,9 +403,10 @@
     color: white;
   }
 
-  .contactUs a{
+  .contactUs a {
     color: #ec5242;
   }
+
   .logo {
     background-color: white;
     align-content: center;
