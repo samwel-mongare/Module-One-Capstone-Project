@@ -1,8 +1,8 @@
 
 
-# Personal Portfolio project (mobile version)
+# The Module One Capstone Project
 
-> This project involves creating a basic mobile version portfolio skeleton which will be used in the development of a complete personal portfolio accessible both through phone and desktop.
+> This is a BAR IN MOTION website project created as per the  Cindy Shin website design in Behance. The website project is in regard to an event and the website communicates important details about the event and more about the host of the event. (BAR IN MOTION INC.)
 
 ## Mobile Version screenshot
 
@@ -64,3 +64,4 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
+- Special thanks and credit goes to Cindy Shin and all the Creative Commons community.
