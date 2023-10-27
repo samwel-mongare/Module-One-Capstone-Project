@@ -14,9 +14,6 @@
 
 Additional description about the project and its features.
 
-## Project Presentation
->   Here, you will find a short [video presentation](https://www.loom.com/share/1d260d6a0f484f3c92e73e4f2d47b26d), describing the project. 
-
 ## Live Demo
 
 [Live Demo Link](https://mosams.github.io/Module-One-Capstone-Project/)
