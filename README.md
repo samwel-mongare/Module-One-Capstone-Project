@@ -2,7 +2,7 @@
 
 # The Module One Capstone Project
 
-> This is a BAR IN MOTION website project created as per the  Cindy Shin website design in Behance. The website project is in regard to an event and the website communicates important details about the event and more about the host of the event. (BAR IN MOTION INC.)
+> The BAR IN MOTION website project was created per the Cindy Shin design in Behance. The website project is regarding an event and communicates important details about the event and more about the event's host. (BAR IN MOTION INC.)
 
 ## Mobile Version screenshot
 
@@ -12,7 +12,7 @@
 
 ![screenshot](./app_screenshot2.png)
 
-Additional description about the project and its features.
+Additional description of the project and its features.
 
 ## Live Demo
 
@@ -25,12 +25,12 @@ Additional description about the project and its features.
 - JAVASCRIPT
 
 ## How to Setup
-> You can simply clone or download [this repository](https://github.com/Mosams/Module-One-Capstone-Project.git), and use your favoright browser or code editor to run this program.
+> You can clone or download [this repository](https://github.com/Mosams/Module-One-Capstone-Project.git), and use your favorite browser or code editor to run this program.
 
-- To open the project after download, simply double click the index.html file
+- To open the project after download, simply double-click the index.html file
 
 - To open this project using vs code ( for this example) or your favorite code editor, you can follow the guide below:
-> in your cmd or command line navigate to where this project is located, then;
+> In your cmd or command line navigate to where this project is located, then;
 ```cmd
 cd microverse_portfolio_project 
 ```
